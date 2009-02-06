@@ -19,13 +19,13 @@ Patch0:    mingw32-gettext-0.17-gnulib-optarg-symbols.patch
 
 BuildArch: noarch
 
-BuildRequires: mingw32-filesystem >= 23
-BuildRequires: mingw32-runtime >= 3.15.1
+BuildRequires: mingw32-filesystem
+BuildRequires: mingw32-runtime
 BuildRequires: mingw32-gcc
 BuildRequires: mingw32-gcc-c++
 BuildRequires: mingw32-binutils
 BuildRequires: mingw32-iconv
-BuildRequires: mingw32-termcap >= 1.3.1-3
+BuildRequires: mingw32-termcap
 
 # Possible extra BRs.  These are used if available, but
 # not required just for building.
