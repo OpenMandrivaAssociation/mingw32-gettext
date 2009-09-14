@@ -6,7 +6,7 @@
 
 Name:      mingw32-gettext
 Version:   0.17
-Release:   %mkrel 1
+Release:   %mkrel 2
 Summary:   GNU libraries and utilities for producing multi-lingual messages
 
 License:   GPLv2+ and LGPLv2+
