@@ -19,6 +19,7 @@ Patch0:    mingw32-gettext-0.17-gnulib-optarg-symbols.patch
 
 BuildArch: noarch
 
+BuildRequires:	make
 BuildRequires: mingw32-filesystem
 BuildRequires: mingw32-runtime
 BuildRequires: mingw32-gcc
